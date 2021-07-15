@@ -1,0 +1,170 @@
+idx:
+- 0
+- 11
+- 12
+- 23
+- 40
+- 50
+- 7
+- 17
+- 20
+- 22
+- 36
+- 3
+- 5
+- 15
+- 32
+- 42
+- 2
+- 4
+- 39
+- 46
+- 49
+- 14
+- 18
+- 30
+- 31
+- 37
+- 8
+- 9
+- 26
+- 33
+- 47
+- 1
+- 25
+- 35
+- 43
+- 44
+- 6
+- 21
+- 24
+- 27
+- 48
+- 16
+- 19
+- 29
+- 38
+- 45
+- 10
+- 13
+- 28
+- 34
+- 41
+y_pred: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - &id001 !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 51
+  - !!python/object/apply:numpy.dtype
+    args:
+    - f4
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    7hllP972tD7FSFs/MkxrP+4ZZT8yTGs/MtrBPpXYTz/d8RM/3kJTPegQHD9Z2V0/PfvdPYSRsT5Z
+    2V0/HGNMPTyfeT/Twx8/ABlzP0dXcD9bLVU/X2R1P78fKT2a3xs/D2WHPprfGz9LbDs+1FZ1P0tn
+    eD/pH2I/S2d4P0ytcz9TsNg+n+loP59fST+0DqE9zmM/P4FUFD8EItI+xNu0PmL2lT6Fq5Q+UV7I
+    PoWPRT4l83g/fNp5P1HjVz+UD24/JAUyPqAQmj0yDd89
+y_pred_int:
+- 1
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 0
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 0
+- 1
+- 1
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 0
+- 0
+y_test: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 51
+  - !!python/object/apply:numpy.dtype
+    args:
+    - i8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAB
+    AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEA
+    AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+    AAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAA
+    AAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAA
+    AAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA
+    AAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAA
+    AAAAAAAAAAAA

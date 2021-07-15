@@ -1,0 +1,174 @@
+idx:
+- 0
+- 11
+- 12
+- 23
+- 40
+- 50
+- 7
+- 17
+- 20
+- 22
+- 36
+- 3
+- 5
+- 15
+- 32
+- 42
+- 2
+- 4
+- 39
+- 46
+- 49
+- 14
+- 18
+- 30
+- 31
+- 37
+- 8
+- 9
+- 26
+- 33
+- 47
+- 1
+- 25
+- 35
+- 43
+- 44
+- 6
+- 21
+- 24
+- 27
+- 48
+- 16
+- 19
+- 29
+- 38
+- 45
+- 10
+- 13
+- 28
+- 34
+- 41
+y_pred: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - &id001 !!python/name:numpy.ndarray ''
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 51
+  - !!python/object/apply:numpy.dtype
+    args:
+    - f8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    UviH0ipEYj+DphZFd8P9PkHTcnXo7u8/L9cnbofn7z99hX6msDDnPwPclIRp++8/lzV+1eI/nj9X
+    ex0Dg+rvPwqgKuje2O8/sPgDRKjaST+iEe/5rUyAP8L1uuytZ+g/U/WyNEjctD8p2e02vXnvP4K5
+    V9cFSN8/P1pqk+5qYD9NTyYw3f7vP1IoeHX7/+8/UEPImNxN6j/Tn5xoIpOqPxJq/0J236M/aQo8
+    zvD/7z/MpH77etxMPx+aWP262u8/FEDlfM4SvT9uWvP6EVPuP0ycQBTQn+w/bc3NikWq7D/NMUKa
+    f//vP+K+jDhp/u8/xD5QvROm7T/HusbEqP/vP5fmY3N1a+0/5fIVffX/7z+8VAgvtwjvPxUj/R/x
+    S2k/xcgVvpT/7z/VwuW7Dv3vP6/SAH8q/O8/WSTAPgiOoD8Jyq3XJMOgPyh0ujIjB+4/WS3S/wBU
+    nz9var7miH1hPxZ+aUT//+8/vO3/////7z+Ib9NbP1/pP3JyBeyH6+8/J8OzO2PU7T/oBhsgjInW
+    P4DhpNwcbIE/
+y_pred_int:
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 1
+- 0
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+- 1
+- 1
+- 1
+- 0
+- 0
+- 1
+- 0
+- 0
+- 1
+- 1
+- 1
+- 1
+- 1
+- 0
+- 0
+y_test: !!python/object/apply:numpy.core.multiarray._reconstruct
+  args:
+  - *id001
+  - !!python/tuple
+    - 0
+  - !!binary |
+    Yg==
+  state: !!python/tuple
+  - 1
+  - !!python/tuple
+    - 51
+  - !!python/object/apply:numpy.dtype
+    args:
+    - i8
+    - false
+    - true
+    state: !!python/tuple
+    - 3
+    - <
+    - null
+    - null
+    - null
+    - -1
+    - -1
+    - 0
+  - false
+  - !!binary |
+    AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAB
+    AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEA
+    AAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA
+    AAAAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAA
+    AAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAA
+    AAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA
+    AAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAABAAAAAAAA
+    AAAAAAAAAAAA
